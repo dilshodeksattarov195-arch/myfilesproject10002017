@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenvave",
+        "uuid": 1575277,
+        "checksum": "ybwmzk"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
